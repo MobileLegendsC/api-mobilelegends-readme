@@ -1,3 +1,4 @@
+
 <h1 align="center">api-mobilelegends-readme</h1>
 <h3 align="center">api-mobilelegends-readme is an api-mobilelegends README</h3>
 
@@ -6,6 +7,11 @@ API-MobileLegends is a MobileLegends Official Fanbase API or ML OFA is a website
 
 # Are we Open Source
 Yes but no, but there is a chance that we can publish its source by following our Mobile Legends account and supporting the API.
+
+ - 833485216
+
+# How can I get the API JSON
+Make the script visit the website then wait for it to load completely then GET it. After that Parse the JSON to get the specific JSON-VAR information.
 
 # API
 Get API information:
