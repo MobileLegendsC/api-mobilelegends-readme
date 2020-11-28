@@ -2,6 +2,9 @@
 <h1 align="center">api-mobilelegends-readme</h1>
 <h3 align="center">api-mobilelegends-readme is an api-mobilelegends README</h3>
 
+# Warning
+This is the beta version of the API. Please visit the new one. https://github.com/MobileLegendsC/api-mobilelegends-readme/tree/au
+
 # What is api-mobilelegends
 API-MobileLegends is a MobileLegends Official Fanbase API or ML OFA is a website where you can interact with MobileLegends Shop, Account, Players, Characters, and others via Web API. It's very useful because you can use it to track events, news updates, and more! But don't expect it to be perfect because its still Beta.
 
