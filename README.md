@@ -1,40 +1,31 @@
 
-<h1 align="center">api-mobilelegends-readme</h1>
-<h3 align="center">api-mobilelegends-readme is an api-mobilelegends README</h3>
 
-# What is api-mobilelegends
-API-MobileLegends is a MobileLegends Official Fanbase API or ML OFA is a website where you can interact with MobileLegends Shop, Account, Players, Characters, and others via Web API. It's very useful because you can use it to track events, news updates, and more! But don't expect it to be perfect because its still Beta.
+<h1 align="center">mobilelegends-api-readme</h1>
+
+# What is mobilelegends-api
+mobilelegends-api is a Mobile Legends Official Fanbase API or Mobile Legends OFA. You can use it to retrieve specific information about Mobile Legends such as emblems, heroes, shop items, and more.
 
 # Reporting a Bug
-If you found a Bug please message our email mosktmp+gicb7@gmail.com, to report the problem.
+If you found a bug or vulnerability in the API, please message our email mosktmp+gicb7@gmail.com. Thank you!
 
 # Are we Open Source
 Yes but no, but there is a chance that we can publish its source by following our Mobile Legends account and supporting the API.
 
  - 833485216
 
-# How can I get the API JSON
-Make the script visit the website then wait for it to load completely then GET it. After that Parse the JSON to get the specific JSON-VAR information.
-
 # API
-Get API information:
+root:
 
-    https://api-mobilelegends.glitch.me/api
-Get API Home information:
+    https://mobilelegends-api.herokuapp.com/ServerData/
+API-information:
 
-    https://api-mobilelegends.glitch.me/api/home
-Get the game icon:
-
-    https://api-mobilelegends.glitch.me/api/icon
-Get the game logo's:
-
-    https://api-mobilelegends.glitch.me/api/logo/list
+    https://mobilelegends-api.herokuapp.com/ServerData/api/
 
 # Note
 
- 1. Visit the API home page to see all the API listed which is located below the JSON(apis), and to see some really useful information.
- 2. Please support us and this API by following our Mobile Legends account(Visit the API home page), and without your support, this API would not exist or Outdated.
- 3. If you found a Bug please message our email mosktmp+gicb7@gmail.com, to report the problem.
+ 1. Visit the root or home page of the API to see all the listed or available API's.
+ 2. This readme auto-updates if there is a new update.
+ 3. Discord Server: https://discord.gg/vn3y6MCJVA.
 
 # Maintainer
 
