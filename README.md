@@ -1,6 +1,10 @@
 
 
+
 <h1 align="center">mobilelegends-api-readme</h1>
+
+# Announcement
+The old API is now open-source: https://github.com/MobileLegendsC/api-mobilelegends
 
 # What is mobilelegends-api
 mobilelegends-api is a Mobile Legends Official Fanbase API or Mobile Legends OFA. You can use it to retrieve specific information about Mobile Legends such as emblems, heroes, shop items, and more.
