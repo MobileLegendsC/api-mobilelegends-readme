@@ -25,7 +25,7 @@ API-information:
 
  1. Visit the root or home page of the API to see all the listed or available API's.
  2. This readme auto-updates if there is a new update.
- 3. Discord Server: https://discord.gg/vn3y6MCJVA.
+ 3. Join our discord server for further information: https://discord.gg/vn3y6MCJVA.
 
 # Maintainer
 
