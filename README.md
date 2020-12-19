@@ -20,10 +20,10 @@ Yes but no, but there is a chance that we can publish its source by following ou
 # API
 root:
 
-    https://mobilelegends-api.herokuapp.com/ServerData/
+    https://craftyaromaticdatawarehouse.sofaj6.repl.co/ServerData/
 API-information:
 
-    https://mobilelegends-api.herokuapp.com/ServerData/api/
+    https://craftyaromaticdatawarehouse.sofaj6.repl.co/ServerData/api/
 
 # Note
 
