@@ -20,10 +20,10 @@ Yes but no, but there is a chance that we can publish its source by following ou
 # API
 root:
 
-    https://verviumstrike-mobilelegends-api.zeet.app/ServerData/
+    https://mobilelegends-api.zeet.app/ServerData/
 API-information:
 
-    https://verviumstrike-mobilelegends-api.zeet.app/ServerData/api/
+    https://mobilelegends-api.zeet.app/ServerData/api/
 
 # Note
 
